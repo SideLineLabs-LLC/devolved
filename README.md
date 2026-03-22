@@ -14,3 +14,4 @@ Ev_M(C)={A|M(A)∧C}
 ```
 
 If you can decode it — [tell us](https://sidelinelabs.org).
+hint: instructions are key
